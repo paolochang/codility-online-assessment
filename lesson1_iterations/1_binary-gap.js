@@ -41,7 +41,6 @@ const N10 = 1376796946;
 
 function solution(N) {
   let binary = (N >>> 0).toString(2).split("");
-  let isValid = false;
   let count = 0;
   let max = 0;
   for (let i = 0; i < binary.length; i++) {
