@@ -32,3 +32,10 @@ This repository includes the studies before the Online Assessment for Scotia Dig
 - CountDiv[Medium]: Compute number of integers divisible by k in range [a..b].
 - GenomicRangeQuery[Medium]: Find the minimal nucleotide from a range of sequence DNA.
 - MinAvgTwoSlice[Medium]: Find the minimal average of any slice containing at least two elements.
+
+#### 6. Sorting
+
+- Distinct[Easy]: Compute number of distinct values in an array.
+- MaxProductOfThree[Easy]: Maximize A[P] \* A[Q] \* A[R] for any triplet (P, Q, R).
+- Triangle[Easy]: Determine whether a triangle can be built from a given set of edges.
+- NumberOfDiscIntersections[Medium]: Compute the number of intersections in a sequence of discs.
