@@ -29,6 +29,7 @@
 
 const S1 = "{[()()]}";
 const S2 = "([)()]";
+const S3 = "{{{{";
 
 function solution(S) {
   let arr = S.split("");
@@ -53,3 +54,4 @@ function solution(S) {
 
 console.log(solution(S1));
 console.log(solution(S2));
+console.log(solution(S3));
