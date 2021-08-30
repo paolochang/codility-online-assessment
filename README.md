@@ -39,3 +39,10 @@ This repository includes the studies before the Online Assessment for Scotia Dig
 - MaxProductOfThree[Easy]: Maximize A[P] \* A[Q] \* A[R] for any triplet (P, Q, R).
 - Triangle[Easy]: Determine whether a triangle can be built from a given set of edges.
 - NumberOfDiscIntersections[Medium]: Compute the number of intersections in a sequence of discs.
+
+#### 7. Stacks and Queues
+
+- Brackets[Easy]: Determine whether a given string of parentheses (multiple types) is properly nested.
+- Fish[Easy]: N voracious fish are moving along a river. Calculate how many fish are alive.
+- Nesting[Easy]: Determine whether a given string of parentheses (single type) is properly nested.
+- StoneWall[Easy]: Cover "Manhattan skyline" using the minimum number of rectangles.
